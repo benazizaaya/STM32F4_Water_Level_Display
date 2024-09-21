@@ -45,4 +45,4 @@ The code is written in C using the **STM32 HAL** libraries. It utilizes the **AD
 2. Power up the STM32 board.
 3. The water level reading will be continuously shown on the LCD
 
-######################################################## Editor : Benaziza Aya ############################################################################
+############################### Editor : Benaziza Aya #############################
